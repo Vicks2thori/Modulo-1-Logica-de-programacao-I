@@ -84,41 +84,41 @@ Exemplo: `feat(operadores): adiciona exercício 6 - maior de três números`
 
 | Arquivo | Exercício | Status |
 |---------|----------|--------|
-| **Operadores** | | |
-| | Exercício 6 - Maior de Três Números | ⬜ |
-| | Exercício 7 - Categoria do Atleta | ⬜ |
-| | Exercício 8 - Ano Bissexto | ⬜ |
-| **Entradas e Saídas** | | |
-| | Exercício 1 - Número Primo | ⬜ |
-| | Exercício 2 - Dia da Semana | ⬜ |
-| | Exercício 3 - Signo | ⬜ |
-| | Exercício 4 - Nome do Mês | ⬜ |
-| | Exercício 5 - Maior Número | ⬜ |
-| **Funções** | | |
-| | Exercício 5 - Função com Enum e Scanner | ⬜ |
-| **Separação de Responsabilidade** | | |
-| | Exercício 5 - Conversor Celsius → Fahrenheit | ⬜ |
-| | Exercício 6 - Conversor de Moeda | ⬜ |
-| **Controle de Fluxo** | | |
-| | Exercício 1 - Enum com Switch (Operações) | ⬜ |
-| | Exercício 2 - Enum com Switch (Categoria Produto) | ⬜ |
-| | Exercício 3 - Conversor de Temperatura com Unidades | ⬜ |
-| **Estrutura de Repetição** | | |
-| | Exercício 1 - Adivinhe o Número (do-while) | ⬜ |
-| | Exercício 2 - Tabuada (for) | ⬜ |
-| | Exercício 3 - Números Primos (while) | ⬜ |
-| **Arrays** | | |
-| | Exercício 1 - Média dos Pares | ⬜ |
-| | Exercício 2 - Inversão de Array | ⬜ |
-| | Exercício 3 - Maior Elemento | ⬜ |
-| **Matrizes** | | |
-| | Exercício 5 - Maior Elemento da Matriz | ⬜ |
-| **Exercícios Extras (5 e 6)** | | |
-| | Exercício 1 - Classificação de Usuários | ⬜ |
-| | Exercício 2 - Calculadora Inteligente | ⬜ |
-| **Exercícios Desafio (7 e 8)** | | |
-| | Exercício 1 - Sistema de Boletim do Aluno | ⬜ |
-| | Exercício 2 - Conversor e Classificação de Temperatura | ⬜ |
+| **Operadores** | |        |
+| | Exercício 6 - Maior de Três Números | ✅      |
+| | Exercício 7 - Categoria do Atleta | ⬜      |
+| | Exercício 8 - Ano Bissexto | ⬜      |
+| **Entradas e Saídas** | |        |
+| | Exercício 1 - Número Primo | ⬜      |
+| | Exercício 2 - Dia da Semana | ⬜      |
+| | Exercício 3 - Signo | ⬜      |
+| | Exercício 4 - Nome do Mês | ⬜      |
+| | Exercício 5 - Maior Número | ⬜      |
+| **Funções** | |        |
+| | Exercício 5 - Função com Enum e Scanner | ⬜      |
+| **Separação de Responsabilidade** | |        |
+| | Exercício 5 - Conversor Celsius → Fahrenheit | ⬜      |
+| | Exercício 6 - Conversor de Moeda | ⬜      |
+| **Controle de Fluxo** | |        |
+| | Exercício 1 - Enum com Switch (Operações) | ⬜      |
+| | Exercício 2 - Enum com Switch (Categoria Produto) | ⬜      |
+| | Exercício 3 - Conversor de Temperatura com Unidades | ⬜      |
+| **Estrutura de Repetição** | |        |
+| | Exercício 1 - Adivinhe o Número (do-while) | ⬜      |
+| | Exercício 2 - Tabuada (for) | ⬜      |
+| | Exercício 3 - Números Primos (while) | ⬜      |
+| **Arrays** | |        |
+| | Exercício 1 - Média dos Pares | ⬜      |
+| | Exercício 2 - Inversão de Array | ⬜      |
+| | Exercício 3 - Maior Elemento | ⬜      |
+| **Matrizes** | |        |
+| | Exercício 5 - Maior Elemento da Matriz | ⬜      |
+| **Exercícios Extras (5 e 6)** | |        |
+| | Exercício 1 - Classificação de Usuários | ⬜      |
+| | Exercício 2 - Calculadora Inteligente | ⬜      |
+| **Exercícios Desafio (7 e 8)** | |        |
+| | Exercício 1 - Sistema de Boletim do Aluno | ⬜      |
+| | Exercício 2 - Conversor e Classificação de Temperatura | ⬜      |
 
 ---
 
