@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Utilize o operador ternário para exibir o dia da semana correspondente.
  */
 
-public class Exercicio2 {
+public class Exercicio3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
