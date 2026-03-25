@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * Exercício 8: Verificar se um Ano é Bissexto
  *
@@ -9,5 +11,12 @@
 
 public class Exercicio8 {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite um ano:");
+        short ano = sc.nextShort();
+
+        boolean anoBissexto = ano % 4 == 0 && ano % 100 != 0 || ano % 400 == 0;
+
+        System.out.printf("O ano %d é bissexto? %b", ano, anoBissexto);
     }
 }
