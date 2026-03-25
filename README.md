@@ -86,7 +86,7 @@ Exemplo: `feat(operadores): adiciona exercício 6 - maior de três números`
 |---------|----------|--------|
 | **Operadores** | |        |
 | | Exercício 6 - Maior de Três Números | ✅      |
-| | Exercício 7 - Categoria do Atleta | ⬜      |
+| | Exercício 7 - Categoria do Atleta | ✅     |
 | | Exercício 8 - Ano Bissexto | ⬜      |
 | **Entradas e Saídas** | |        |
 | | Exercício 1 - Número Primo | ⬜      |
