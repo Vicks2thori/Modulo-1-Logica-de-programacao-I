@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * Exercício 7: Determinar a Categoria de um Atleta com Base na Idade
  *
@@ -10,5 +12,15 @@
 
 public class Exercicio7 {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite a idade do atleta:");
+        int idade = sc.nextInt();
+
+        String categoriaAtleta =
+                idade < 18
+                ? "Juvenil" : idade <= 40
+                ? "Adulto" : "Master";
+
+        System.out.printf("Para o atleta com idade %d a categoria é %s", idade, categoriaAtleta);
     }
 }
