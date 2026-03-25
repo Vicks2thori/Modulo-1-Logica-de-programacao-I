@@ -1,0 +1,11 @@
+/**
+ * Exercício 2: Verificar Dia da Semana
+ *
+ * Peça ao usuário para inserir um número de 1 a 7 usando Scanner, onde 1 representa "Domingo" e 7 representa "Sábado".
+ * Utilize o operador ternário para exibir o dia da semana correspondente.
+ */
+
+public class Exercicio2 {
+    public static void main(String[] args) {
+    }
+}
